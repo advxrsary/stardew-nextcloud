@@ -5,5 +5,6 @@
   "Description": "Sync saves, mod configs, and mod data to Nextcloud via WebDAV",
   "UniqueID": "advx.CloudSync",
   "EntryDll": "CloudSync.dll",
-  "MinimumApiVersion": "4.0.0"
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": ["Nexus:42850", "GitHub:advxrsary/stardew-nextcloud"]
 }
